@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AEAQ8W_Beadando_DL1", "AEAQ8W_Beadando_DL1\AEAQ8W_Beadando_DL1.csproj", "{C7D88787-39F5-40D2-8470-77E5A5E6C45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D88787-39F5-40D2-8470-77E5A5E6C45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D88787-39F5-40D2-8470-77E5A5E6C45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D88787-39F5-40D2-8470-77E5A5E6C45A}.Debug|x64.ActiveCfg = Debug|x64
+		{C7D88787-39F5-40D2-8470-77E5A5E6C45A}.Debug|x64.Build.0 = Debug|x64
+		{C7D88787-39F5-40D2-8470-77E5A5E6C45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D88787-39F5-40D2-8470-77E5A5E6C45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D88787-39F5-40D2-8470-77E5A5E6C45A}.Release|x64.ActiveCfg = Release|x64
+		{C7D88787-39F5-40D2-8470-77E5A5E6C45A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C55260A-6AAE-4AE3-8422-2CA5CF33953F}
+	EndGlobalSection
+EndGlobal

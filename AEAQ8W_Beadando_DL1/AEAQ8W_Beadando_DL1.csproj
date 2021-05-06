@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CNTK.CPUOnly" Version="2.7.0" />
+    <PackageReference Include="CNTK.Deps.MKL" Version="2.7.0" />
+    <PackageReference Include="CNTK.Deps.OpenCV.Zip" Version="2.7.0" />
+  </ItemGroup>
+
+</Project>
